@@ -1,0 +1,19 @@
+You can get items in the following ways:
+* buy
+* create
+* discover (treasures)
+
+
+inscriptions (one-time-use scrolls/charms)
+
+patterns (item-enhancing writings)
+
+elixirs / pills
+
+unique artifacts
+
+artifacts
+
+armor/weapon items (things you equip)
+
+demon spirits
