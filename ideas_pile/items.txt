@@ -17,3 +17,8 @@ artifacts
 armor/weapon items (things you equip)
 
 demon spirits
+
+demon blood infusion (one type per run)
+
+
+

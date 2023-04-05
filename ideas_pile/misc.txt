@@ -1,8 +1,0 @@
-
-
-cps = cultivations per second (instead of clicks per second)
-
-
-
-
-

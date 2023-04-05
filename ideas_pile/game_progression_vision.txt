@@ -10,6 +10,7 @@ items and money
 get women
 unlock and train mind
     perks (such as mind-reading/sending)
+    comprehensions
 acquire mystical beast(s?)
 gain followers
 gain emperor's favor
@@ -25,3 +26,7 @@ Higher plane (a god of previous plane is regular in current plane):
 
 repeat until reaching the highest plane (until a game update would invent new planes)
     can always grow stronger; gain more followers, be capable of lifting more mountains, mind-heal people faster... Generally stronger.
+
+
+
+

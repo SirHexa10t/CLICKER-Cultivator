@@ -1,0 +1,15 @@
+
+
+cps = cultivations per second (instead of clicks per second)
+
+
+numbers that visibly climb up fast
+
+large waypoints, which feel meaningful (high investment, high return)
+
+Small animated visual effects
+
+Mild sounds that can be replayed rapidly (like machine-gun; hearing them repeatedly means something is working automaticelly at high yield)
+
+
+
