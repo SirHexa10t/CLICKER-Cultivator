@@ -7,7 +7,9 @@ get friends
     get favors
     political ties
 items and money
-get women
+get women (increase reputation)
+    maybe make it possible to choose up to X (let's say 2) wives, which would apply specific perma-boosts
+        (one wife might come from a family of body-builders and would make sure to feed you protein, another might make you focus on mind, one might have a balance...)
 unlock and train mind
     perks (such as mind-reading/sending)
     comprehensions
@@ -26,6 +28,49 @@ Higher plane (a god of previous plane is regular in current plane):
 
 repeat until reaching the highest plane (until a game update would invent new planes)
     can always grow stronger; gain more followers, be capable of lifting more mountains, mind-heal people faster... Generally stronger.
+
+
+
+
+
+Alternative: (or maybe an addition)
+============
+
+Maybe each "building" (purchasable investment like the stuff on the right side on Cookie Clicker) could be an activity counter.
+So instead of owning a lot of stuff, you'll build up on the potential of what you already did. For example: going on a quest requires doing 1000 body exercises and 20 weapon proficiency trainings (they'll be named differently).
+
+Or maybe you could make the investments go down sometimes (like doing 100 sit-ups and 100 push-ups every day; it'll get easier to do them (maybe each click would start being x10 or x100), but you'll need to re-do them regardless)
+
+So you'd cultivate "skills" (of various kinds) which would make it easier to cultivate further, which would make your skill higher...
+    Skill would drop naturally without you training, but slowly, and no more than 25% (example) of your general skill level
+        This would make skill a "strike the iron while it's hot" thing - an insentive to keep on improving right after you improved (because doing so in the future would be harder)
+        This way, the penalty for being a passive player would be tolerable too - it's better to leave the game running for a day than play intensively for 10 minutes.
+
+Exercises would take some time to complete.
+You could do some of the exercises concurrently, and that'll sometimes have positive or negative effects.
+    You should come to the trading-house "prepared", i.e. without running extra errands. People would think you're weird if you do exercises while auctioning, and they might spite you out of your buys by competing with you more.
+    Some concurrent exercises would require a lot of skill.
+
+There'd be good reputation and bad reputation. You'd rather have more good than bad, but the bad reputation can be helpful too (no such thing as bad marketing)
+
+There should always be something to strive to overcome - some arrogant asshole or a challenge that's really hard and no one dares to try
+
+How about tiers for each exercise? Example: you can upgrade from push-ups to 1-handed push-ups to 2-finger to 1-finger to 1 finger with vertical body (no feet on the ground)
+    Not a replacement for doing x1000 or x1000000 exercises in one click. That'd still be an option (and each exercise would still cost more than previous)
+
+There'd be energy which would get replendinshed as time goes by (and faster during inactivity which is basically rest/sleep). This'd basically be a "mana/energy/mp/sanity" system like in gacha games
+There'd also be willpower which can be used alongside energy or instead of it. Won't be a paid thing, it's just cool to have the option to progress using willpower.
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -11,10 +11,11 @@ reincarnation (like cookie clicker's ascension)
 
 
 self-improvements:
-soul , body , rest (need better word - opposite of fatigue)
+soul , body , rest (need better word - opposite of fatigue. Readiness to go / enthusiasm / energy...)
 
 ----------------------
 
 
-No "golden cookies", but rather make the user initiate the opportunities (taking a pill starts a buff, and also a cooldown before you can safely take another pill without harming your soul/body)
-
+No "golden cookies", but there are replacements:
+    make the user initiate the opportunities (taking a pill starts a buff, and also a cooldown before you can safely take another pill without harming your soul/body)
+    routine expectable events (every week there'll be an auction-house event, every hour there's a new optional quest, and so on) 
